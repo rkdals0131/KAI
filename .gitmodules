@@ -1,0 +1,21 @@
+[submodule "cone_detection"]
+	path = cone_detection
+	url = https://github.com/rkdals0131/cone_detection.git
+[submodule "cone_projection"]
+	path = cone_projection
+	url = https://github.com/rkdals0131/cone_projection.git
+[submodule "custom_interface"]
+	path = custom_interface
+	url = https://github.com/rkdals0131/custom_interface.git
+[submodule "hungarian_association"]
+	path = hungarian_association
+	url = https://github.com/rkdals0131/hungarian_association.git
+[submodule "ros2_camera_lidar_fusion"]
+	path = ros2_camera_lidar_fusion
+	url = https://github.com/rkdals0131/ros2_camera_lidar_fusion.git
+[submodule "usb_cam"]
+	path = usb_cam
+	url = https://github.com/rkdals0131/usb_cam.git
+[submodule "yolo_ros"]
+	path = yolo_ros
+	url = https://github.com/rkdals0131/yolo_ros.git
